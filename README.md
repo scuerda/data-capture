@@ -38,7 +38,7 @@ The shell offers a number of commands for entering data, calculating statistics,
 Here is a sample session:
 
 ```
-$ (indigo) python data_capture.py
+$ (capture) python data_capture.py
 Welcome to the Stats shell. Type help or ? to list commands. To exit type: quit.
 
 (stats) help
